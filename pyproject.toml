@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "poetry-pywin-bug"
+authors = ["Ingvald <ingvald_lorentzen+github@me.com>"]
+description = "Poetry PyWin Bug"
+version = "0"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+azure-identity = "1.10.0"
